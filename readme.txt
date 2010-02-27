@@ -1,6 +1,6 @@
 === Sypex Dumper 2 for WordPress ===
 Contributors: zapimir
-Donate link: http://sypex.net/ru/products/dumper/sponsors/
+Donate link: http://sypex.net/en/products/dumper/sponsors/
 Tags: backup, restore, cron, mysql, database
 Requires at least: 2.9.0
 Tested up to: 2.9.2
